@@ -1,0 +1,1 @@
+import{_ as e,a as s,o as t}from"./index-ClJCIFbZ.js";const c={},o={src:"https://happysnaker.github.io/Resume/",class:"w-full h-screen"};function r(a,n){return t(),s("iframe",o)}const f=e(c,[["render",r]]);export{f as default};
